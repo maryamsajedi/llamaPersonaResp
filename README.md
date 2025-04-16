@@ -13,7 +13,6 @@ To investigate the impact of user profiles on dialogue response quality and rele
 - Python 3.8+
 - PyTorch
 - HuggingFace Transformers
-- Any LLaMA 3.2 Instruct-compatible inference backend (e.g., `transformers`, `vllm`, or `llama.cpp`)
 
 ## 📁 Project Structure
 
