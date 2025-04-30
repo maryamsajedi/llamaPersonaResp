@@ -1,0 +1,6 @@
+.paper
+glove.6B.100d.txt
+*.json
+*.csv
+*.pkl
+*.jsonl
